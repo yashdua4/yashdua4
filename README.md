@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Dua</h1>
+<p align="center"><strong>Cybersecurity Enthusiast | Web Dev Learner | Python Explorer</strong></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;BCA+Student+@+UPES;Bug+Bounty+Hunter;OSINT+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=BCA+Student+%40+UPES+Dehradun;Bug+Bounty+Hunter+%7C+OSINT+Explorer;Learning+Python+and+Web+Dev;Future+Cyber+Agent+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +11,9 @@
 - 💻 Passionate about **Cybersecurity**, **OSINT**, and **Ethical Hacking**  
 - 🚀 Working on: Learning Web Pentesting and Bug Bounty Hunting  
 - 🛠️ Skills: Python | Web Recon | Google Dorking | Linux | C | HTML
+- - 🌱 Currently learning: **Web Development** (HTML, CSS, JS, React) and **Python Automation**
+- 🧠 Exploring: **Bug Bounty**, **OSINT**, and **CTFs**
+- ⚡ Dream: To become a cybersecurity expert and build meaningful digital tools
 
 ---
 
